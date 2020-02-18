@@ -1,4 +1,4 @@
-# simple-file-searcher
+# file-searcher
 User can search through a Binary Search Tree filled with text from the given directory's subsequent children and return the location of the searched word.
 
 The Word class has a constructor, getter/setter methods, and a compare to method for word objects. 
